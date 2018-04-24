@@ -1,0 +1,49 @@
+li {
+    padding: 5px;
+    margin: 5px;
+    background: lightblue;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  h1 {
+    
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+
+  h2 {
+
+    color: yellow;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+
+
+  .create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: rgb(6, 131, 131);
+  }
+  
+  .form-group {
+    margin-bottom: 5px;
+  }
+  
+  .jumbotron {
+    margin: 45px 50px 10px 50px;
+    background: #f6f6f6;
+    text-align: center;
+    background-color: lightsteelblue;
+     
+  }
+  
+  .card {
+    margin: 45px;
+    background: lightblue;
+  }
+  
+  body {
+    background-color: lightblue;
+  }
